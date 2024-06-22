@@ -33,11 +33,14 @@ Ever wondered who thinks like you? This project dives into student responses, us
    - Take your pick:
      - **Cosine Similarity Analysis:**
        ```bash
-       python cosine_similarity_analysis.py
+       python CosineSimilarityMatch.py
+       python CosineSimilarityTwoMatches.py
        ```
      - **Jaccard Similarity with Visual Pizzazz:**
        ```bash
-       python jaccard_similarity_visualization.py
+       python TopMatchJaccardSimilarity.py
+       python GraphVisualizationJaccardSimilarity.py
+       python MatchesWithSimilarityScoresJaccardSimilarity.py
        ```
 
 4. **Catch the Matches:**
